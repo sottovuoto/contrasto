@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SOTTOVUOTO</title>
-    <link>https://sottovuoto.github.io/me/</link>
+    <title>HIGH CONTRAST</title>
+    <link>https://sottovuoto.github.io/contrasto/</link>
     <description>Recent content on SOTTOVUOTO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 07 Dec 2022 19:59:33 +0100</lastBuildDate>
     
-	<atom:link href="https://sottovuoto.github.io/me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sottovuoto.github.io/contrasto/index.xml" rel="self" type="application/rss+xml" />
     
     
     
